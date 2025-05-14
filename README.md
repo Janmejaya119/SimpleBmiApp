@@ -25,3 +25,12 @@ A minimal full-stack Body Mass Index (BMI) calculator built with:
 
 ## 📁 Project Structure
 
+SimpleBmiApp/
+├── BmiApi/ # .NET 9 API project
+│ └── Controllers/ # BMI calculation logic
+├── streamlit_ui/ # Python frontend
+│ ├── app.py # Streamlit app
+│ └── venv/ # Virtual environment (not pushed to GitHub)
+├── .gitignore
+└── README.md
+
