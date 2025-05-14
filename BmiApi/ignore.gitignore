@@ -1,0 +1,20 @@
+# Ignore Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Ignore .NET build output
+bin/
+obj/
+*.user
+*.suo
+
+# VS Code settings
+.vscode/
+
+# Ignore launch profiles
+*.launch.json
+
+# OS files
+.DS_Store
+Thumbs.db
